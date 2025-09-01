@@ -38,7 +38,9 @@ source_urls = [
     "https://iptv.catvod.com/tv.m3u",
     "https://live.zbds.top/tv/iptv4.txt",
     "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
-
+    "https://iptv.laobaitv.net",
+    "https://tv-1.iill.top/m3u/Gather",
+    "https://fy.188766.xyz/?url=http://mursor.ottiptv.cc&mishitong=false&lunbo=false",
 
 ]
 
